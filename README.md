@@ -1,4 +1,4 @@
-# Shopify front-end intern challenge
+# Shopify frontend intern challenge
 I created a simple react app to display pictures from NASA's API
 
 ## Getting Started with Create React App
