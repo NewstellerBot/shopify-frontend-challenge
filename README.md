@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Shopify front-end intern challenge
+I created a simple react app to display pictures from NASA's API
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
