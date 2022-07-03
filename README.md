@@ -9,11 +9,16 @@ I created a simple react app to display pictures from NASA's API
 ## Usage
 
 ```
-// Clone repository
+# Clone repository
 git clone https://github.com/NewstellerBot/shopify-frontend-challenge
-// Install needed components and start the project
+
+# Enter project directory
 cd ./shopify-fronted-challenge
+
+# Install dependencies
 yarn install
+
+# Start the project
 yarn start
 ```
 
