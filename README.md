@@ -13,7 +13,7 @@ I created a simple react app to display pictures from NASA's API
 git clone https://github.com/NewstellerBot/shopify-frontend-challenge
 
 # Enter project directory
-cd ./shopify-fronted-challenge
+cd shopify-frontend-challenge
 
 # Install dependencies
 yarn install
